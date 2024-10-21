@@ -44,3 +44,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+
+## Тестовые артефакты
+
+[Теория тестирования](https://github.com/sanguisorbamd/theory)
+
+[Техники тест-дизайна](https://github.com/sanguisorbamd/design)
+
+[Тестовая документация](https://github.com/sanguisorbamd/docs)
+
+[Тестирование API](https://github.com/sanguisorbamd/api)
+
+[Тестирование веб-приложений](https://github.com/sanguisorbamd/web)
+
+[Работа с базами данных](https://github.com/sanguisorbamd/database)
+
+[Тестирование мобильных приложений](https://github.com/sanguisorbamd/mobile)
+
+[Работа с git и bash](https://github.com/sanguisorbamd/git_bash)

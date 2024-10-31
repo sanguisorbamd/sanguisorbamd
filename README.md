@@ -10,6 +10,8 @@
 
 [Сертификат об окончании курсов в формате pdf](https://github.com/user-attachments/files/17560580/Junior_7965450.pdf)
 
+[Рекомендательное письмо формате pdf](https://github.com/user-attachments/files/17585950/default.pdf)
+
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sanguisorba.md@gmail.com)
 

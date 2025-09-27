@@ -18,7 +18,7 @@
 
 ### 🤝 Социальные сети:
 
-  [Telegram](https://t.me/noyouarethemuffin)
+  [Telegram]([https://t.me/daria_mlnv])
   
 ---
 
